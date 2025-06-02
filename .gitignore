@@ -10,7 +10,7 @@ package-lock.json
 # Build output
 main.exe
 postman.json
-whatsapp-session.json
+whatsapp-session
 
 # Editor directories and files
 .vscode/*
